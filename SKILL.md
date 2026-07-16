@@ -1,7 +1,7 @@
 ---
 name: upkuajing-sms-tool-zh
 description: 对接全球通信运营商发送批量跨境短信，实时查看每条短信的发送状态，助力外贸从业者开展海外营销推广、订单物流通知以及客户精细化触达。
-metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📱","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📱","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # 跨境魔方短信工具
